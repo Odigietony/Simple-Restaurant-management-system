@@ -89,7 +89,7 @@ public class SMS {
 		
 		final JLabel jlblCheeseBurger = new JLabel("Cheese Burger");
 		jlblCheeseBurger.setFont(new Font("Tahoma", Font.BOLD, 20));
-		jlblCheeseBurger.setBounds(34, 132, 158, 28);
+		jlblCheeseBurger.setBounds(34, 135, 158, 28);
 		panel.add(jlblCheeseBurger);
 		
 		jtxtChicBurger = new JTextField();
